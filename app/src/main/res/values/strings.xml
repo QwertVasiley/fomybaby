@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">For My Baby</string>
+    <string name="click_me">CLICK ME</string>
+    <string name="image">IMAGE</string>
+    <string name="image2">IMAGE2</string>
+    <string name="this_for_you">ЭТО ДЛЯ ТЕБЯ</string>
+    <string name="myscreen">screen2</string>
+
+</resources>
